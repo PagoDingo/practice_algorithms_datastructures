@@ -1,3 +1,4 @@
+//linear search
 function autocomplete(input, dictionary){
     var input = input.replace(/[^a-z]/gi, '');
     var completions = [];
